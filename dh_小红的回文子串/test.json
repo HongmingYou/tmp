@@ -1,0 +1,56 @@
+[
+    {
+        "in": {
+            "str": "ab"
+        },
+        "out": 0
+    },
+    {
+        "in": {
+            "str": "abh"
+        },
+        "out": 1
+    },
+    {
+        "in": {
+            "str": "qwertyuiopasdfghjklxcvbnm"
+        },
+        "out": 1
+    },
+    {
+        "in": {
+            "str": "abab"
+        },
+        "out": 2
+    },
+    {
+        "in": {
+            "str": "abcbc"
+        },
+        "out": 3
+    },
+    {
+        "in": {
+            "str": "abcbab"
+        },
+        "out": 4
+    },
+    {
+        "in": {
+            "str": "abcdatyuiopopopop"
+        },
+        "out": 8
+    },
+    {
+        "in": {
+            "str": "auauauau"
+        },
+        "out": 6
+    },
+    {
+        "in": {
+            "str": "ababcbc"
+        },
+        "out": 4
+    }
+]
