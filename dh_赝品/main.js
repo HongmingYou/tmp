@@ -1,4 +1,4 @@
-function solve(word) {
+function solution(n, arr) {
     // write code here
     return 0;
 }
